@@ -1,0 +1,39 @@
+2026-03-20 18:28:55,526 - INFO - Start polling
+2026-03-20 18:28:55,767 - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:31:04,820 - INFO - User 1381500667 started bot
+2026-03-20 18:31:05,070 - INFO - Update id=537746815 is handled. Duration 250 ms by bot id=8655038926
+2026-03-20 18:31:06,718 - INFO - Update id=537746816 is handled. Duration 92 ms by bot id=8655038926
+2026-03-20 18:31:08,169 - INFO - Update id=537746817 is handled. Duration 94 ms by bot id=8655038926
+2026-03-20 18:31:14,335 - INFO - 📡 Запрос API: https://common-api.wildberries.ru/api/v1/tariffs/commission | Поиск: Одежда
+2026-03-20 18:31:15,938 - INFO - ✅ Успех! Всего в базе: 0. Найдено совпадений: 0
+2026-03-20 18:31:16,668 - INFO - Update id=537746818 is handled. Duration 2344 ms by bot id=8655038926
+2026-03-20 18:33:51,429 - INFO - Polling stopped
+2026-03-20 18:33:51,430 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-20 18:33:51,430 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8655038926)
+2026-03-20 18:33:51,689 - INFO - Polling stopped for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:33:57,028 - INFO - Start polling
+2026-03-20 18:33:57,262 - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:34:00,268 - INFO - Polling stopped
+2026-03-20 18:34:00,270 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-20 18:34:00,270 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8655038926)
+2026-03-20 18:34:00,528 - INFO - Polling stopped for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:34:28,092 - INFO - Start polling
+2026-03-20 18:34:28,322 - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:34:44,530 - INFO - Update id=537746819 is handled. Duration 250 ms by bot id=8655038926
+2026-03-20 18:34:46,475 - INFO - Update id=537746820 is handled. Duration 109 ms by bot id=8655038926
+2026-03-20 18:34:48,362 - INFO - Update id=537746821 is handled. Duration 156 ms by bot id=8655038926
+2026-03-20 18:34:53,256 - INFO - 📡 Отправка запроса к WB API...
+2026-03-20 18:34:54,731 - INFO - 📡 Статус ответа: 200
+2026-03-20 18:34:54,797 - INFO - 📡 Ключи в ответе: ['report']
+2026-03-20 18:34:54,797 - WARNING - 📡 ВНИМАНИЕ: Поле 'reportList' пустое. Скорее всего, у API-ключа нет прав на 'Статистику'.
+2026-03-20 18:34:54,908 - INFO - Update id=537746822 is handled. Duration 1640 ms by bot id=8655038926
+2026-03-20 18:34:59,116 - INFO - 📡 Отправка запроса к WB API...
+2026-03-20 18:35:00,407 - INFO - 📡 Статус ответа: 200
+2026-03-20 18:35:00,433 - INFO - 📡 Ключи в ответе: ['report']
+2026-03-20 18:35:00,433 - WARNING - 📡 ВНИМАНИЕ: Поле 'reportList' пустое. Скорее всего, у API-ключа нет прав на 'Статистику'.
+2026-03-20 18:35:00,541 - INFO - Update id=537746823 is handled. Duration 1437 ms by bot id=8655038926
+2026-03-20 18:35:03,684 - INFO - Update id=537746824 is handled. Duration 94 ms by bot id=8655038926
+2026-03-20 18:41:06,905 - INFO - Polling stopped
+2026-03-20 18:41:06,907 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-20 18:41:06,907 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8655038926)
+2026-03-20 18:41:07,168 - INFO - Polling stopped for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'

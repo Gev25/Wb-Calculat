@@ -1,0 +1,23 @@
+2026-03-20 18:25:03,526 - __main__ - INFO - Бот запущен и готов к работе!
+2026-03-20 18:25:03,527 - aiogram.dispatcher - INFO - Start polling
+2026-03-20 18:25:03,764 - aiogram.dispatcher - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:25:11,571 - __main__ - INFO - Пользователь 1381500667 (@gevabrahamyan) запустил бота
+2026-03-20 18:25:11,823 - aiogram.event - INFO - Update id=537746810 is handled. Duration 250 ms by bot id=8655038926
+2026-03-20 18:25:17,920 - __main__ - INFO - Пользователь выбрал режим: 📊 Считать прибыль
+2026-03-20 18:25:18,121 - aiogram.event - INFO - Update id=537746811 is handled. Duration 203 ms by bot id=8655038926
+2026-03-20 18:25:19,622 - __main__ - INFO - Тип поставки: FBS
+2026-03-20 18:25:19,725 - aiogram.event - INFO - Update id=537746812 is handled. Duration 109 ms by bot id=8655038926
+2026-03-20 18:25:22,089 - __main__ - INFO - Ввод категории/процента: FBS
+2026-03-20 18:25:22,090 - __main__ - INFO - Запрос к API WB для категории: FBS
+2026-03-20 18:25:23,657 - __main__ - INFO - Найдено категорий: 0
+2026-03-20 18:25:23,658 - __main__ - WARNING - Категория 'FBS' не найдена в API
+2026-03-20 18:25:23,776 - aiogram.event - INFO - Update id=537746813 is handled. Duration 1688 ms by bot id=8655038926
+2026-03-20 18:25:41,818 - __main__ - INFO - Ввод категории/процента: Одежда
+2026-03-20 18:25:41,819 - __main__ - INFO - Запрос к API WB для категории: Одежда
+2026-03-20 18:25:43,413 - __main__ - INFO - Найдено категорий: 0
+2026-03-20 18:25:43,414 - __main__ - WARNING - Категория 'Одежда' не найдена в API
+2026-03-20 18:25:43,511 - aiogram.event - INFO - Update id=537746814 is handled. Duration 1703 ms by bot id=8655038926
+2026-03-20 18:28:50,548 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-20 18:28:50,548 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-20 18:28:50,549 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8655038926)
+2026-03-20 18:28:50,806 - aiogram.dispatcher - INFO - Polling stopped for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'

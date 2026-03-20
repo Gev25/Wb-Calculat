@@ -1,0 +1,40 @@
+2026-03-20 18:46:27,590 - INFO - Start polling
+2026-03-20 18:46:27,806 - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:46:30,861 - INFO - Update id=537746834 is handled. Duration 234 ms by bot id=8655038926
+2026-03-20 18:46:32,372 - INFO - Update id=537746835 is handled. Duration 110 ms by bot id=8655038926
+2026-03-20 18:46:34,004 - INFO - Update id=537746836 is handled. Duration 140 ms by bot id=8655038926
+2026-03-20 18:46:38,589 - INFO - 📡 Запрос тарифов Swagger API. Поиск: Брюки
+2026-03-20 18:46:40,248 - INFO - ✅ Найдено совпадений: 9
+2026-03-20 18:46:40,348 - INFO - Update id=537746837 is handled. Duration 1750 ms by bot id=8655038926
+2026-03-20 18:49:35,676 - INFO - Polling stopped
+2026-03-20 18:49:35,677 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-20 18:49:35,677 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8655038926)
+2026-03-20 18:49:35,939 - INFO - Polling stopped for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:49:42,679 - INFO - Start polling
+2026-03-20 18:49:42,908 - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:49:48,207 - INFO - Update id=537746838 is handled. Duration 250 ms by bot id=8655038926
+2026-03-20 18:49:49,944 - INFO - Update id=537746839 is handled. Duration 110 ms by bot id=8655038926
+2026-03-20 18:49:51,268 - INFO - Update id=537746840 is handled. Duration 109 ms by bot id=8655038926
+2026-03-20 18:49:58,401 - INFO - 📡 Запрос тарифов. Поиск: Брюки
+2026-03-20 18:50:00,193 - INFO - ✅ Найдено совпадений: 9
+2026-03-20 18:50:00,325 - INFO - Update id=537746841 is handled. Duration 1922 ms by bot id=8655038926
+2026-03-20 18:50:21,017 - INFO - 📡 Запрос тарифов. Поиск: Компрессионные брюки | 26%
+2026-03-20 18:50:22,546 - INFO - ✅ Найдено совпадений: 0
+2026-03-20 18:50:22,649 - INFO - Update id=537746842 is handled. Duration 1640 ms by bot id=8655038926
+2026-03-20 18:51:49,106 - INFO - Polling stopped
+2026-03-20 18:51:49,107 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-20 18:51:49,108 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8655038926)
+2026-03-20 18:51:49,366 - INFO - Polling stopped for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:51:54,114 - INFO - Start polling
+2026-03-20 18:51:54,343 - INFO - Run polling for bot @wb_calculate_bot id=8655038926 - 'WbCalculateAM'
+2026-03-20 18:52:00,598 - INFO - Update id=537746843 is handled. Duration 218 ms by bot id=8655038926
+2026-03-20 18:52:02,044 - INFO - Update id=537746844 is handled. Duration 110 ms by bot id=8655038926
+2026-03-20 18:52:03,419 - INFO - Update id=537746845 is handled. Duration 93 ms by bot id=8655038926
+2026-03-20 18:52:06,885 - INFO - 📡 Запрос тарифов. Поиск: Брюки
+2026-03-20 18:52:08,228 - INFO - ✅ Найдено совпадений: 9
+2026-03-20 18:52:08,359 - INFO - Update id=537746846 is handled. Duration 1468 ms by bot id=8655038926
+2026-03-20 18:52:10,248 - INFO - ✅ Выбрана категория из списка: Брюки спортивные | 28% -> 28.0%
+2026-03-20 18:52:10,337 - INFO - Update id=537746847 is handled. Duration 93 ms by bot id=8655038926
+2026-03-20 18:52:14,788 - INFO - Update id=537746848 is handled. Duration 171 ms by bot id=8655038926
+2026-03-20 18:52:22,932 - INFO - Update id=537746849 is handled. Duration 125 ms by bot id=8655038926
+2026-03-20 18:52:27,767 - INFO - Update id=537746850 is handled. Duration 109 ms by bot id=8655038926
